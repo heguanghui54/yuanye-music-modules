@@ -2,7 +2,9 @@
 
 这里提供已发布软件的备用安装包，以及原野适配的音轨编辑模块。
 
-## 软件安装包：备用源
+## 软件安装包：历史公开包的备用副本
+
+**69 版未包含 2026-11-05 这轮客户端修复。修复版已在 new-win 内部验证，新版公开安装器尚待签发与安装升级验收。**
 
 [主下载网站](https://download.heshi.pro/) · [现有 1.0.0.69 版备用发行](https://github.com/heguanghui54/yuanye-music-modules/releases/tag/client-mirror-1.0.0.69)
 
