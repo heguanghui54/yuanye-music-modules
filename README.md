@@ -2,16 +2,11 @@
 
 这里提供已发布软件的备用安装包，以及原野适配的音轨编辑模块。
 
-## 软件安装包：历史公开包的备用副本
+## 软件安装包
 
-**69 版未包含 2026-11-05 这轮客户端修复。修复版已在 new-win 内部验证，新版公开安装器尚待签发与安装升级验收。**
+[下载最新版（Windows 和 macOS）](https://github.com/heguanghui54/yuanye-music-modules/releases/latest) · [历史发行与模块](https://github.com/heguanghui54/yuanye-music-modules/releases) · [原野官网下载](https://download.heshi.pro/)
 
-[主下载网站](https://download.heshi.pro/) · [现有 1.0.0.69 版备用发行](https://github.com/heguanghui54/yuanye-music-modules/releases/tag/client-mirror-1.0.0.69)
-
-- [Windows 1.0.0.69 安装包](https://github.com/heguanghui54/yuanye-music-modules/releases/download/client-mirror-1.0.0.69/Yuanye-Music-Windows-1.0.0.69-setup.exe)
-- [Mac 1.0.0.69 安装包](https://github.com/heguanghui54/yuanye-music-modules/releases/download/client-mirror-1.0.0.69/Yuanye-Music-macOS-1.0.0.69.pkg)
-
-以上与原下载站公开的安装包字节一致。主下载地址、软件版本和更新渠道保持原样。SHA256SUMS.txt 与 installer-mirror.json 随发行提供。
+安装包与原下载站公开文件逐件校验。打开发行页，在 Assets 中选择 Windows 安装程序或 macOS 安装包。每个安装包发行均附 SHA256SUMS.txt 和 installer-mirror.json。
 
 ## 音轨编辑模块：主源
 
